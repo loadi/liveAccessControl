@@ -14,6 +14,6 @@
 ![такъ](https://sun9-22.userapi.com/impg/Pr1hKyW8IITY9rFeGpIXuVptqLEU9vrl-BpiBA/gbYopZkxv6Q.jpg?size=224x57&quality=96&sign=bbf354e66c57f430193e3121c9c44da2&type=album)
 
 # Как работает?
-
+![](https://sun1-23.userapi.com/impg/q-9NqGAroRGjCYK_GBVIscsKfevcAqm0P5_N1Q/ZingXKVx6Fs.jpg?size=168x481&quality=96&sign=db357b9173de639c55fbd656d88ca5ce&type=album)
 # Зачем?
 Для себя. Интересный антипаттерн.
