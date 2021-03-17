@@ -15,6 +15,8 @@
 
 # Как работает?
 ![](https://sun1-23.userapi.com/impg/q-9NqGAroRGjCYK_GBVIscsKfevcAqm0P5_N1Q/ZingXKVx6Fs.jpg?size=168x481&quality=96&sign=db357b9173de639c55fbd656d88ca5ce&type=album)
+
+
 В настоящий момент о пользователе хранится только его имя пользователя, которое было введено при отправки запроса на доступ к ресурсу, и отметка времени обращения.
 
 # Зачем?
