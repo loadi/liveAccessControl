@@ -10,11 +10,12 @@
 
 ![такъ](https://sun9-69.userapi.com/impg/Y5SpTLkDbbyrqHDu5VVkTMGXHvhnzhnnwjTL6w/IoI6a1tOiVk.jpg?size=290x122&quality=96&sign=497b464263542df04853ee72ffba9576&type=album)
 
-Со стороны пользователя:
-
+Пользователь видит заглушку страницы ожидания до тех пор, пока доступ не будет разрешен.
 ![такъ](https://sun9-22.userapi.com/impg/Pr1hKyW8IITY9rFeGpIXuVptqLEU9vrl-BpiBA/gbYopZkxv6Q.jpg?size=224x57&quality=96&sign=bbf354e66c57f430193e3121c9c44da2&type=album)
 
 # Как работает?
 ![](https://sun1-23.userapi.com/impg/q-9NqGAroRGjCYK_GBVIscsKfevcAqm0P5_N1Q/ZingXKVx6Fs.jpg?size=168x481&quality=96&sign=db357b9173de639c55fbd656d88ca5ce&type=album)
+В настоящий момент о пользователе хранится только его имя пользователя, которое было введено при отправки запроса на доступ к ресурсу, и отметка времени обращения.
+
 # Зачем?
 Для себя. Интересный антипаттерн.
